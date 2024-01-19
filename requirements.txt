@@ -1,0 +1,5 @@
+numpy
+streamlit~=1.27.2
+pillow~=9.2.0
+tensorflow~=2.14.0
+keras~=2.14.0
